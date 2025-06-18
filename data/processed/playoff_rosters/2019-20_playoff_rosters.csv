@@ -1,0 +1,280 @@
+TEAM_ID,TEAM_NAME,PLAYER,PLAYER_ID
+1610612738,Boston Celtics,Jayson Tatum,1628369
+1610612738,Boston Celtics,Carsen Edwards,1629035
+1610612738,Boston Celtics,Jaylen Brown,1627759
+1610612738,Boston Celtics,Kemba Walker,202689
+1610612738,Boston Celtics,Brad Wanamaker,202954
+1610612738,Boston Celtics,Enes Freedom,202683
+1610612738,Boston Celtics,Grant Williams,1629684
+1610612738,Boston Celtics,Gordon Hayward,202330
+1610612738,Boston Celtics,Daniel Theis,1628464
+1610612738,Boston Celtics,Marcus Smart,203935
+1610612738,Boston Celtics,Semi Ojeleye,1628400
+1610612738,Boston Celtics,Javonte Green,1629750
+1610612738,Boston Celtics,Robert Williams III,1629057
+1610612738,Boston Celtics,Romeo Langford,1629641
+1610612738,Boston Celtics,Tremont Waters,1629682
+1610612738,Boston Celtics,Vincent Poirier,1629738
+1610612738,Boston Celtics,Tacko Fall,1629605
+1610612742,Dallas Mavericks,Courtney Lee,201584
+1610612742,Dallas Mavericks,Antonius Cleveland,1628499
+1610612742,Dallas Mavericks,J.J. Barea,200826
+1610612742,Dallas Mavericks,Kristaps Porziņģis,204001
+1610612742,Dallas Mavericks,Dwight Powell,203939
+1610612742,Dallas Mavericks,Michael Kidd-Gilchrist,203077
+1610612742,Dallas Mavericks,Dorian Finney-Smith,1627827
+1610612742,Dallas Mavericks,Tim Hardaway Jr.,203501
+1610612742,Dallas Mavericks,Jalen Brunson,1628973
+1610612742,Dallas Mavericks,Josh Reaves,1629729
+1610612742,Dallas Mavericks,Seth Curry,203552
+1610612742,Dallas Mavericks,Trey Burke,203504
+1610612742,Dallas Mavericks,Willie Cauley-Stein,1626161
+1610612742,Dallas Mavericks,Maxi Kleber,1628467
+1610612742,Dallas Mavericks,Justin Jackson,1628382
+1610612742,Dallas Mavericks,Boban Marjanović,1626246
+1610612742,Dallas Mavericks,Delon Wright,1626153
+1610612742,Dallas Mavericks,Luka Dončić,1629029
+1610612743,Denver Nuggets,Michael Porter Jr.,1629008
+1610612743,Denver Nuggets,Torrey Craig,1628470
+1610612743,Denver Nuggets,Paul Millsap,200794
+1610612743,Denver Nuggets,Will Barton,203115
+1610612743,Denver Nuggets,Keita Bates-Diop,1628966
+1610612743,Denver Nuggets,Mason Plumlee,203486
+1610612743,Denver Nuggets,Jerami Grant,203924
+1610612743,Denver Nuggets,Bol Bol,1629626
+1610612743,Denver Nuggets,Monté Morris,1628420
+1610612743,Denver Nuggets,Gary Harris,203914
+1610612743,Denver Nuggets,Nikola Jokić,203999
+1610612743,Denver Nuggets,Tyler Cook,1629076
+1610612743,Denver Nuggets,Jamal Murray,1627750
+1610612743,Denver Nuggets,Troy Daniels,203584
+1610612743,Denver Nuggets,Vlatko Čančar,1628427
+1610612743,Denver Nuggets,Noah Vonleh,203943
+1610612743,Denver Nuggets,PJ Dozier,1628408
+1610612745,Houston Rockets,Russell Westbrook,201566
+1610612745,Houston Rockets,David Nwaba,1628021
+1610612745,Houston Rockets,Chris Clemons,1629598
+1610612745,Houston Rockets,Danuel House Jr.,1627863
+1610612745,Houston Rockets,Bruno Caboclo,203998
+1610612745,Houston Rockets,DeMarre Carroll,201960
+1610612745,Houston Rockets,Eric Gordon,201569
+1610612745,Houston Rockets,Luc Mbah a Moute,201601
+1610612745,Houston Rockets,James Harden,201935
+1610612745,Houston Rockets,Ben McLemore,203463
+1610612745,Houston Rockets,P.J. Tucker,200782
+1610612745,Houston Rockets,Thabo Sefolosha,200757
+1610612745,Houston Rockets,Tyson Chandler,2199
+1610612745,Houston Rockets,Michael Frazier II,1626187
+1610612745,Houston Rockets,Austin Rivers,203085
+1610612745,Houston Rockets,Jeff Green,201145
+1610612745,Houston Rockets,Robert Covington,203496
+1610612745,Houston Rockets,William Howard,1629739
+1610612746,LA Clippers,Reggie Jackson,202704
+1610612746,LA Clippers,Kawhi Leonard,202695
+1610612746,LA Clippers,JaMychal Green,203210
+1610612746,LA Clippers,Montrezl Harrell,1626149
+1610612746,LA Clippers,Amir Coffey,1629599
+1610612746,LA Clippers,Paul George,202331
+1610612746,LA Clippers,Terance Mann,1629611
+1610612746,LA Clippers,Johnathan Motley,1628405
+1610612746,LA Clippers,Rodney McGruder,203585
+1610612746,LA Clippers,Landry Shamet,1629013
+1610612746,LA Clippers,Patrick Beverley,201976
+1610612746,LA Clippers,Lou Williams,101150
+1610612746,LA Clippers,Mfiondu Kabengele,1629662
+1610612746,LA Clippers,Marcus Morris Sr.,202694
+1610612746,LA Clippers,Ivica Zubac,1627826
+1610612746,LA Clippers,Patrick Patterson,202335
+1610612746,LA Clippers,Joakim Noah,201149
+1610612747,Los Angeles Lakers,Kyle Kuzma,1628398
+1610612747,Los Angeles Lakers,Kentavious Caldwell-Pope,203484
+1610612747,Los Angeles Lakers,Anthony Davis,203076
+1610612747,Los Angeles Lakers,Alex Caruso,1627936
+1610612747,Los Angeles Lakers,Talen Horton-Tucker,1629659
+1610612747,Los Angeles Lakers,JaVale McGee,201580
+1610612747,Los Angeles Lakers,Rajon Rondo,200765
+1610612747,Los Angeles Lakers,Jared Dudley,201162
+1610612747,Los Angeles Lakers,Avery Bradley,202340
+1610612747,Los Angeles Lakers,Devontae Cacok,1629719
+1610612747,Los Angeles Lakers,Danny Green,201980
+1610612747,Los Angeles Lakers,Dion Waiters,203079
+1610612747,Los Angeles Lakers,JR Smith,2747
+1610612747,Los Angeles Lakers,LeBron James,2544
+1610612747,Los Angeles Lakers,Quinn Cook,1626188
+1610612747,Los Angeles Lakers,Kostas Antetokounmpo,1628961
+1610612747,Los Angeles Lakers,Dwight Howard,2730
+1610612747,Los Angeles Lakers,Markieff Morris,202693
+1610612748,Miami Heat,Meyers Leonard,203086
+1610612748,Miami Heat,Gabe Vincent,1629216
+1610612748,Miami Heat,KZ Okpala,1629644
+1610612748,Miami Heat,Derrick Jones Jr.,1627884
+1610612748,Miami Heat,Goran Dragic,201609
+1610612748,Miami Heat,Kelly Olynyk,203482
+1610612748,Miami Heat,Bam Adebayo,1628389
+1610612748,Miami Heat,Tyler Herro,1629639
+1610612748,Miami Heat,Kyle Alexander,1629734
+1610612748,Miami Heat,Jimmy Butler III,202710
+1610612748,Miami Heat,Kendrick Nunn,1629134
+1610612748,Miami Heat,Andre Iguodala,2738
+1610612748,Miami Heat,Chris Silva,1629735
+1610612748,Miami Heat,Udonis Haslem,2617
+1610612748,Miami Heat,Solomon Hill,203524
+1610612748,Miami Heat,Duncan Robinson,1629130
+1610612748,Miami Heat,Jae Crowder,203109
+1610612749,Milwaukee Bucks,Donte DiVincenzo,1628978
+1610612749,Milwaukee Bucks,George Hill,201588
+1610612749,Milwaukee Bucks,D.J. Wilson,1628391
+1610612749,Milwaukee Bucks,Eric Bledsoe,202339
+1610612749,Milwaukee Bucks,Ersan Ilyasova,101141
+1610612749,Milwaukee Bucks,Wesley Matthews,202083
+1610612749,Milwaukee Bucks,Brook Lopez,201572
+1610612749,Milwaukee Bucks,Cam Reynolds,1629244
+1610612749,Milwaukee Bucks,Frank Mason III,1628412
+1610612749,Milwaukee Bucks,Marvin Williams,101107
+1610612749,Milwaukee Bucks,Khris Middleton,203114
+1610612749,Milwaukee Bucks,Sterling Brown,1628425
+1610612749,Milwaukee Bucks,Pat Connaughton,1626192
+1610612749,Milwaukee Bucks,Kyle Korver,2594
+1610612749,Milwaukee Bucks,Giannis Antetokounmpo,203507
+1610612749,Milwaukee Bucks,Robin Lopez,201577
+1610612749,Milwaukee Bucks,Thanasis Antetokounmpo,203648
+1610612751,Brooklyn Nets,Jeremiah Martin,1629725
+1610612751,Brooklyn Nets,Rodions Kurucs,1629066
+1610612751,Brooklyn Nets,Jamal Crawford,2037
+1610612751,Brooklyn Nets,Taurean Prince,1627752
+1610612751,Brooklyn Nets,Chris Chiozza,1629185
+1610612751,Brooklyn Nets,DeAndre Jordan,201599
+1610612751,Brooklyn Nets,Kevin Durant,201142
+1610612751,Brooklyn Nets,Tyler Johnson,204020
+1610612751,Brooklyn Nets,Timothe Luwawu-Cabarrot,1627789
+1610612751,Brooklyn Nets,Justin Anderson,1626147
+1610612751,Brooklyn Nets,Kyrie Irving,202681
+1610612751,Brooklyn Nets,Joe Harris,203925
+1610612751,Brooklyn Nets,Dzanan Musa,1629058
+1610612751,Brooklyn Nets,Garrett Temple,202066
+1610612751,Brooklyn Nets,Wilson Chandler,201163
+1610612751,Brooklyn Nets,Caris LeVert,1627747
+1610612751,Brooklyn Nets,Spencer Dinwiddie,203915
+1610612751,Brooklyn Nets,Jarrett Allen,1628386
+1610612751,Brooklyn Nets,Nic Claxton,1629651
+1610612751,Brooklyn Nets,Lance Thomas,202498
+1610612751,Brooklyn Nets,Donta Hall,1629743
+1610612753,Orlando Magic,Aaron Gordon,203932
+1610612753,Orlando Magic,Jonathan Isaac,1628371
+1610612753,Orlando Magic,Al-Farouq Aminu,202329
+1610612753,Orlando Magic,Mo Bamba,1628964
+1610612753,Orlando Magic,Michael Carter-Williams,203487
+1610612753,Orlando Magic,Nikola Vučević,202696
+1610612753,Orlando Magic,Evan Fournier,203095
+1610612753,Orlando Magic,James Ennis III,203516
+1610612753,Orlando Magic,Gary Clark,1629109
+1610612753,Orlando Magic,BJ Johnson,1629168
+1610612753,Orlando Magic,D.J. Augustin,201571
+1610612753,Orlando Magic,Markelle Fultz,1628365
+1610612753,Orlando Magic,Vic Law,1629724
+1610612753,Orlando Magic,Khem Birch,203920
+1610612753,Orlando Magic,Wes Iwundu,1628411
+1610612753,Orlando Magic,Terrence Ross,203082
+1610612753,Orlando Magic,Melvin Frazier Jr.,1628982
+1610612754,Indiana Pacers,T.J. Warren,203933
+1610612754,Indiana Pacers,Aaron Holiday,1628988
+1610612754,Indiana Pacers,Victor Oladipo,203506
+1610612754,Indiana Pacers,Edmond Sumner,1628410
+1610612754,Indiana Pacers,Malcolm Brogdon,1627763
+1610612754,Indiana Pacers,Justin Holiday,203200
+1610612754,Indiana Pacers,T.J. McConnell,204456
+1610612754,Indiana Pacers,Brian Bowen II,1628968
+1610612754,Indiana Pacers,Domantas Sabonis,1627734
+1610612754,Indiana Pacers,JaKarr Sampson,203960
+1610612754,Indiana Pacers,Naz Mitrou-Long,1628513
+1610612754,Indiana Pacers,Doug McDermott,203926
+1610612754,Indiana Pacers,T.J. Leaf,1628388
+1610612754,Indiana Pacers,Alize Johnson,1628993
+1610612754,Indiana Pacers,Jeremy Lamb,203087
+1610612754,Indiana Pacers,Myles Turner,1626167
+1610612754,Indiana Pacers,Goga Bitadze,1629048
+1610612755,Philadelphia 76ers,Josh Richardson,1626196
+1610612755,Philadelphia 76ers,Mike Scott,203118
+1610612755,Philadelphia 76ers,Zhaire Smith,1629015
+1610612755,Philadelphia 76ers,Kyle O'Quinn,203124
+1610612755,Philadelphia 76ers,Tobias Harris,202699
+1610612755,Philadelphia 76ers,Norvel Pelle,203658
+1610612755,Philadelphia 76ers,Shake Milton,1629003
+1610612755,Philadelphia 76ers,Raul Neto,203526
+1610612755,Philadelphia 76ers,Alec Burks,202692
+1610612755,Philadelphia 76ers,Joel Embiid,203954
+1610612755,Philadelphia 76ers,Matisse Thybulle,1629680
+1610612755,Philadelphia 76ers,Ben Simmons,1627732
+1610612755,Philadelphia 76ers,Furkan Korkmaz,1627788
+1610612755,Philadelphia 76ers,Marial Shayok,1629621
+1610612755,Philadelphia 76ers,Glenn Robinson III,203922
+1610612755,Philadelphia 76ers,Al Horford,201143
+1610612755,Philadelphia 76ers,Ryan Broekhoff,1629151
+1610612757,Portland Trail Blazers,Damian Lillard,203081
+1610612757,Portland Trail Blazers,Carmelo Anthony,2546
+1610612757,Portland Trail Blazers,Anfernee Simons,1629014
+1610612757,Portland Trail Blazers,Gary Trent Jr.,1629018
+1610612757,Portland Trail Blazers,CJ McCollum,203468
+1610612757,Portland Trail Blazers,Moses Brown,1629650
+1610612757,Portland Trail Blazers,Rodney Hood,203918
+1610612757,Portland Trail Blazers,Jaylen Hoard,1629658
+1610612757,Portland Trail Blazers,Trevor Ariza,2772
+1610612757,Portland Trail Blazers,Nassir Little,1629642
+1610612757,Portland Trail Blazers,Jaylen Adams,1629121
+1610612757,Portland Trail Blazers,Hassan Whiteside,202355
+1610612757,Portland Trail Blazers,Jusuf Nurkić,203994
+1610612757,Portland Trail Blazers,Zach Collins,1628380
+1610612757,Portland Trail Blazers,Wenyen Gabriel,1629117
+1610612757,Portland Trail Blazers,Mario Hezonja,1626209
+1610612757,Portland Trail Blazers,Caleb Swanigan,1628403
+1610612760,Oklahoma City Thunder,Shai Gilgeous-Alexander,1628983
+1610612760,Oklahoma City Thunder,Chris Paul,101108
+1610612760,Oklahoma City Thunder,Luguentz Dort,1629652
+1610612760,Oklahoma City Thunder,Hamidou Diallo,1628977
+1610612760,Oklahoma City Thunder,Darius Bazley,1629647
+1610612760,Oklahoma City Thunder,Danilo Gallinari,201568
+1610612760,Oklahoma City Thunder,Nerlens Noel,203457
+1610612760,Oklahoma City Thunder,Abdel Nader,1627846
+1610612760,Oklahoma City Thunder,Steven Adams,203500
+1610612760,Oklahoma City Thunder,Devon Hall,1628985
+1610612760,Oklahoma City Thunder,Kevin Hervey,1628987
+1610612760,Oklahoma City Thunder,Dennis Schröder,203471
+1610612760,Oklahoma City Thunder,Andre Roberson,203460
+1610612760,Oklahoma City Thunder,Isaiah Roby,1629676
+1610612760,Oklahoma City Thunder,Terrance Ferguson,1628390
+1610612760,Oklahoma City Thunder,Deonte Burton,1629126
+1610612760,Oklahoma City Thunder,Mike Muscala,203488
+1610612761,Toronto Raptors,Terence Davis,1629056
+1610612761,Toronto Raptors,Paul Watson,1628778
+1610612761,Toronto Raptors,OG Anunoby,1628384
+1610612761,Toronto Raptors,Rondae Hollis-Jefferson,1626178
+1610612761,Toronto Raptors,Stanley Johnson,1626169
+1610612761,Toronto Raptors,Kyle Lowry,200768
+1610612761,Toronto Raptors,Serge Ibaka,201586
+1610612761,Toronto Raptors,Oshae Brissett,1629052
+1610612761,Toronto Raptors,Malcolm Miller,1626259
+1610612761,Toronto Raptors,Dewan Hernandez,1629608
+1610612761,Toronto Raptors,Matt Thomas,1629744
+1610612761,Toronto Raptors,Patrick McCaw,1627775
+1610612761,Toronto Raptors,Fred VanVleet,1627832
+1610612761,Toronto Raptors,Norman Powell,1626181
+1610612761,Toronto Raptors,Chris Boucher,1628449
+1610612761,Toronto Raptors,Marc Gasol,201188
+1610612761,Toronto Raptors,Pascal Siakam,1627783
+1610612762,Utah Jazz,Nigel Williams-Goss,1628430
+1610612762,Utah Jazz,Jordan Clarkson,203903
+1610612762,Utah Jazz,Joe Ingles,204060
+1610612762,Utah Jazz,Justin Wright-Foreman,1629625
+1610612762,Utah Jazz,Jarrell Brantley,1629714
+1610612762,Utah Jazz,Rayjon Tucker,1629730
+1610612762,Utah Jazz,Mike Conley,201144
+1610612762,Utah Jazz,Tony Bradley,1628396
+1610612762,Utah Jazz,Emmanuel Mudiay,1626144
+1610612762,Utah Jazz,Juwan Morgan,1629752
+1610612762,Utah Jazz,Ed Davis,202334
+1610612762,Utah Jazz,Royce O'Neale,1626220
+1610612762,Utah Jazz,Rudy Gobert,203497
+1610612762,Utah Jazz,Georges Niang,1627777
+1610612762,Utah Jazz,Bojan Bogdanović,202711
+1610612762,Utah Jazz,Donovan Mitchell,1628378
+1610612762,Utah Jazz,Miye Oni,1629671
